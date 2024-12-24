@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Dellacodes
 - 👀 I’m interested in Chinas' creativity
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me ...nope
+- 💞️ I’m looking to collaborate on Chinese Technology
 - 😄 Pronouns:she/her
-- ⚡ Fun fact:i'm a programmer
+- ⚡ Fun fact:i'm almost a programmer (started)
 
 <!---
 Dellacodes/Dellacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
